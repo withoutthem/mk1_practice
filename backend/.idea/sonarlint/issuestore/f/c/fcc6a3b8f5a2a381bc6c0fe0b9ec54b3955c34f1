@@ -1,5 +1,3 @@
 
-O
-java:S2699*"-Add at least one assertion to this test case.(ÑÃúæøÿÿÿÿ8´î“Ú1
-J
-java:S26995"-Add at least one assertion to this test case.(›°óÑ8´î“Ú1
+l
+java:S5838À"NUse assertThat(actual).isNotPresent() or assertThat(actual).isEmpty() instead.(ùæÉ’8ä„Å–Ú1
